@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CRGen/static/css/main.fb11ac93.chunk.css",
+    "main.js": "/CRGen/static/js/main.2cc3b92c.chunk.js",
+    "main.js.map": "/CRGen/static/js/main.2cc3b92c.chunk.js.map",
+    "runtime-main.js": "/CRGen/static/js/runtime-main.5b9845e9.js",
+    "runtime-main.js.map": "/CRGen/static/js/runtime-main.5b9845e9.js.map",
+    "static/js/2.965ebab0.chunk.js": "/CRGen/static/js/2.965ebab0.chunk.js",
+    "static/js/2.965ebab0.chunk.js.map": "/CRGen/static/js/2.965ebab0.chunk.js.map",
+    "index.html": "/CRGen/index.html",
+    "precache-manifest.422fa0f3c9bd7b19c2a99213d73bfbcf.js": "/CRGen/precache-manifest.422fa0f3c9bd7b19c2a99213d73bfbcf.js",
+    "service-worker.js": "/CRGen/service-worker.js",
+    "static/css/main.fb11ac93.chunk.css.map": "/CRGen/static/css/main.fb11ac93.chunk.css.map",
+    "static/js/2.965ebab0.chunk.js.LICENSE.txt": "/CRGen/static/js/2.965ebab0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b9845e9.js",
+    "static/js/2.965ebab0.chunk.js",
+    "static/css/main.fb11ac93.chunk.css",
+    "static/js/main.2cc3b92c.chunk.js"
+  ]
+}
